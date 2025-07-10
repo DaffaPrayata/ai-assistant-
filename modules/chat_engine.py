@@ -12,7 +12,7 @@ from typing import List, Dict, Optional
 import logging
 
 # Configuration
-API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBPciTzef8bdW7NWRwrWGXLPqVbMmJElZs")
+API_KEY = os.getenv("YOUR_API_KEY)
 HISTORY_FILE = Path("data/conversations.json")
 MAX_HISTORY_DAYS = 7
 MAX_CONTEXT_MESSAGES = 20  # Batasi konteks untuk menghindari token limit
