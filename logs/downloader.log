@@ -1,0 +1,5 @@
+2025-07-08 02:21:27,195 - all_downloader - WARNING - URL YouTube tidak valid: windah
+2025-07-08 02:22:29,594 - all_downloader - WARNING - URL Bstation tidak valid: https://bstation.com/fruitbasket
+2025-07-08 03:02:00,591 - all_downloader - INFO - Mulai unduhan 'https://youtu.be/hKW3RQq3aK0?si=54QE94scSKU91P6b' sebagai 'mp3' dari Youtube
+2025-07-08 03:02:15,042 - all_downloader - INFO - Unduhan selesai untuk 'https://youtu.be/hKW3RQq3aK0?si=54QE94scSKU91P6b'.
+2025-07-08 03:02:35,298 - all_downloader - INFO - Proses interaktif dibatalkan oleh pengguna.
